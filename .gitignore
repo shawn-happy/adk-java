@@ -33,3 +33,7 @@ Thumbs.db
 # Local documentation and plans
 docs/
 plans/
+
+.claude
+CLAUDE.md
+CLAUDE.local.md
